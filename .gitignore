@@ -1,0 +1,16 @@
+# IDE
+.idea/
+.vscode/
+
+# Build artifacts
+/firewall-egress-tester
+*.exe
+*.test
+*.out
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
